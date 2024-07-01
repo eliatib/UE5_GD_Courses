@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GD_Shooter",
+			"Path": "..\\Source\\GD_Shooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GD_ShooterEditor",
+			"Path": "..\\Source\\GD_ShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

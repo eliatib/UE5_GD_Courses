@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tmich\\onedrive\\documents\\unreal projects\\gd_shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\gd_shooter\\uht\\gun.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tmich\\onedrive\\documents\\unreal projects\\gd_shooter\\intermediate\\build\\win64\\x64\\gd_shootereditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\tmich\\onedrive\\documents\\unreal projects\\gd_shooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gd_shooter\\definitions.gd_shooter.h",
+            "c:\\users\\tmich\\onedrive\\documents\\unreal projects\\gd_shooter\\source\\gd_shooter\\gun.h",
+            "c:\\users\\tmich\\onedrive\\documents\\unreal projects\\gd_shooter\\intermediate\\build\\win64\\unrealeditor\\inc\\gd_shooter\\uht\\gun.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

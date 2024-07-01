@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GD_Shooter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GD_Shooter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GD_ShooterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GD_Shooter">
+      <UniqueIdentifier>{8A9C3198-B517-3B36-9CF0-CFB01654CAC3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GD_Shooter\BTService_PlayerLoc.cpp">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GD_Shooter\BTService_PlayerLoc.h">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GD_Shooter\BTService_PlayerLocOnSight.cpp">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GD_Shooter\BTService_PlayerLocOnSight.h">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GD_Shooter\BTTask_ClearBBValue.cpp">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GD_Shooter\BTTask_ClearBBValue.h">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GD_Shooter\BTTask_Shoot.cpp">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GD_Shooter\BTTask_Shoot.h">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\GD_Shooter\GD_Shooter.Build.cs">
+      <Filter>Source\GD_Shooter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GD_Shooter\GD_Shooter.cpp">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GD_Shooter\GD_Shooter.h">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GD_Shooter\Gun.cpp">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GD_Shooter\Gun.h">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GD_Shooter\IAShooter.cpp">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GD_Shooter\IAShooter.h">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GD_Shooter\KillThemAllGameMode.cpp">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GD_Shooter\KillThemAllGameMode.h">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GD_Shooter\MyPawn.cpp">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GD_Shooter\MyPawn.h">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GD_Shooter\ShooterCharacter.cpp">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GD_Shooter\ShooterCharacter.h">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GD_Shooter\ShooterController.cpp">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GD_Shooter\ShooterController.h">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GD_Shooter\ShooterGameModeBase.cpp">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GD_Shooter\ShooterGameModeBase.h">
+      <Filter>Source\GD_Shooter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

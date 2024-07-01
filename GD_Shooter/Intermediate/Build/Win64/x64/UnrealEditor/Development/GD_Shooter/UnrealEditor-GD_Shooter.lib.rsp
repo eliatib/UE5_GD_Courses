@@ -1,0 +1,35 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GD_Shooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\GD_ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\BTService_PlayerLoc.gen.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\BTService_PlayerLocOnSight.gen.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\BTTask_ClearBBValue.gen.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\BTTask_Shoot.gen.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\GD_Shooter.init.gen.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\Gun.gen.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\IAShooter.gen.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\KillThemAllGameMode.gen.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\MyPawn.gen.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\ShooterCharacter.gen.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\ShooterController.gen.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\ShooterGameModeBase.gen.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\BTService_PlayerLoc.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\BTService_PlayerLocOnSight.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\BTTask_ClearBBValue.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\BTTask_Shoot.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\GD_Shooter.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\Gun.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\IAShooter.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\KillThemAllGameMode.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\MyPawn.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\ShooterCharacter.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\ShooterController.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\ShooterGameModeBase.cpp.obj"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\Default.rc2.res"
+/OUT:"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\UnrealEditor-GD_Shooter.lib"
