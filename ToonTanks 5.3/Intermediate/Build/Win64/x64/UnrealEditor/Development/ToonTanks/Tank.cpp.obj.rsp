@@ -1,11 +1,11 @@
-"C:\Users\tmich\OneDrive\Documents\UE\ToonTanksProjectSetup_4.25\ToonTanks 5.3\Source\ToonTanks\Tank.cpp"
-/FI"C:\Users\tmich\OneDrive\Documents\UE\ToonTanksProjectSetup_4.25\ToonTanks 5.3\Intermediate\Build\Win64\x64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/FI"C:\Users\tmich\OneDrive\Documents\UE\ToonTanksProjectSetup_4.25\ToonTanks 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\Definitions.ToonTanks.h"
-/Yu"C:\Users\tmich\OneDrive\Documents\UE\ToonTanksProjectSetup_4.25\ToonTanks 5.3\Intermediate\Build\Win64\x64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/Fp"C:\Users\tmich\OneDrive\Documents\UE\ToonTanksProjectSetup_4.25\ToonTanks 5.3\Intermediate\Build\Win64\x64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\tmich\OneDrive\Documents\UE\ToonTanksProjectSetup_4.25\ToonTanks 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\Tank.cpp.obj"
-/sourceDependencies "C:\Users\tmich\OneDrive\Documents\UE\ToonTanksProjectSetup_4.25\ToonTanks 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\Tank.cpp.dep.json"
-@"C:\Users\tmich\OneDrive\Documents\UE\ToonTanksProjectSetup_4.25\ToonTanks 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\ToonTanks.Shared.rsp"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\ToonTanks 5.3\Source\ToonTanks\Tank.cpp"
+/FI"C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\ToonTanks 5.3\Intermediate\Build\Win64\x64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/FI"C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\ToonTanks 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\Definitions.ToonTanks.h"
+/Yu"C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\ToonTanks 5.3\Intermediate\Build\Win64\x64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/Fp"C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\ToonTanks 5.3\Intermediate\Build\Win64\x64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\ToonTanks 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\Tank.cpp.obj"
+/sourceDependencies "C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\ToonTanks 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\Tank.cpp.dep.json"
+@"C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\ToonTanks 5.3\Intermediate\Build\Win64\x64\UnrealEditor\Development\ToonTanks\ToonTanks.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

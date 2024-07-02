@@ -258,8 +258,8 @@
 /I "Developer\PhysicsUtilities\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
-/I "C:\Users\tmich\OneDrive\Documents\UE\ToonTanksProjectSetup_4.25\ToonTanks 5.3\Intermediate\Build\Win64\UnrealEditor\Inc\ToonTanks\UHT"
-/I "C:\Users\tmich\OneDrive\Documents\UE\ToonTanksProjectSetup_4.25\ToonTanks 5.3\Source"
+/I "C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\ToonTanks 5.3\Intermediate\Build\Win64\UnrealEditor\Inc\ToonTanks\UHT"
+/I "C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\ToonTanks 5.3\Source"
 /external:W0
 /external:I "ThirdParty\mimalloc\include"
 /external:I "ThirdParty\LibTiff\Source\Win64"

@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\tmich\\OneDrive\\Documents\\UE\\ToonTanksProjectSetup_4.25\\ToonTanks 5.3\\Source\\ToonTanks\\ToonTanks.Build.cs",
-		"C:\\Users\\tmich\\OneDrive\\Documents\\UE\\ToonTanksProjectSetup_4.25\\ToonTanks 5.3\\Source\\ToonTanks.Target.cs",
-		"C:\\Users\\tmich\\OneDrive\\Documents\\UE\\ToonTanksProjectSetup_4.25\\ToonTanks 5.3\\Source\\ToonTanksEditor.Target.cs"
+		"C:\\Users\\tmich\\OneDrive\\Documents\\Unreal Projects\\UE5_C++_Courses\\UE5_GD_Courses\\ToonTanks 5.3\\Source\\ToonTanks\\ToonTanks.Build.cs",
+		"C:\\Users\\tmich\\OneDrive\\Documents\\Unreal Projects\\UE5_C++_Courses\\UE5_GD_Courses\\ToonTanks 5.3\\Source\\ToonTanks.Target.cs",
+		"C:\\Users\\tmich\\OneDrive\\Documents\\Unreal Projects\\UE5_C++_Courses\\UE5_GD_Courses\\ToonTanks 5.3\\Source\\ToonTanksEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }
