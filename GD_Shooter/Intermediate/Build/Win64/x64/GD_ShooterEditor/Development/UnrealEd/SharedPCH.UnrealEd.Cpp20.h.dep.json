@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\tmich\\onedrive\\documents\\unreal projects\\gd_shooter\\intermediate\\build\\win64\\x64\\gd_shootereditor\\development\\unrealed\\sharedpch.unrealed.cpp20.cpp",
+        "Source": "c:\\users\\tmich\\onedrive\\documents\\unreal projects\\ue5_c++_courses\\ue5_gd_courses\\gd_shooter\\intermediate\\build\\win64\\x64\\gd_shootereditor\\development\\unrealed\\sharedpch.unrealed.cpp20.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\tmich\\onedrive\\documents\\unreal projects\\gd_shooter\\intermediate\\build\\win64\\x64\\gd_shootereditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h",
-            "c:\\users\\tmich\\onedrive\\documents\\unreal projects\\gd_shooter\\intermediate\\build\\win64\\x64\\gd_shootereditor\\development\\unrealed\\shareddefinitions.unrealed.cpp20.h",
+            "c:\\users\\tmich\\onedrive\\documents\\unreal projects\\ue5_c++_courses\\ue5_gd_courses\\gd_shooter\\intermediate\\build\\win64\\x64\\gd_shootereditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h",
+            "c:\\users\\tmich\\onedrive\\documents\\unreal projects\\ue5_c++_courses\\ue5_gd_courses\\gd_shooter\\intermediate\\build\\win64\\x64\\gd_shootereditor\\development\\unrealed\\shareddefinitions.unrealed.cpp20.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\editor\\unrealed\\public\\unrealedsharedpch.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\enginesharedpch.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\slate\\public\\slatesharedpch.h",

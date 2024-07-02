@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6sCgAsBuIvYh4XiC3kRrv3aIRM19VVys4hEx0hDEuJSI68vm+JgwGOqzMNNAvMFo7K4quHSG7m2faezSkWRrhg==",
+  "dgSpecHash": "j1tOkp1LqeD3z9SenTR/qtIzSY5mZb8PH0jxdnQgFBbvEhS8ZlYPSNvDFcUrBGsZzydOaAM7GavpVD5kbInUPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tmich\\OneDrive\\Documents\\Unreal Projects\\GD_Shooter\\Intermediate\\Build\\BuildRulesProjects\\GD_ShooterModuleRules\\GD_ShooterModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\tmich\\OneDrive\\Documents\\Unreal Projects\\UE5_C++_Courses\\UE5_GD_Courses\\GD_Shooter\\Intermediate\\Build\\BuildRulesProjects\\GD_ShooterModuleRules\\GD_ShooterModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tmich\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\tmich\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

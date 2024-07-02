@@ -1,11 +1,11 @@
-"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\UnrealEditor\Inc\GD_Shooter\UHT\IAShooter.gen.cpp"
-/FI"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\GD_ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
-/FI"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\Definitions.GD_Shooter.h"
-/Yu"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\GD_ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
-/Fp"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\GD_ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.pch"
-/Fo"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\IAShooter.gen.cpp.obj"
-/sourceDependencies "C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\IAShooter.gen.cpp.dep.json"
-@"C:\Users\tmich\OneDrive\Documents\Unreal Projects\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\GD_Shooter.Shared.rsp"
+"C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\GD_Shooter\Intermediate\Build\Win64\UnrealEditor\Inc\GD_Shooter\UHT\IAShooter.gen.cpp"
+/FI"C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\GD_Shooter\Intermediate\Build\Win64\x64\GD_ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
+/FI"C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\Definitions.GD_Shooter.h"
+/Yu"C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\GD_Shooter\Intermediate\Build\Win64\x64\GD_ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
+/Fp"C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\GD_Shooter\Intermediate\Build\Win64\x64\GD_ShooterEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.pch"
+/Fo"C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\IAShooter.gen.cpp.obj"
+/sourceDependencies "C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\IAShooter.gen.cpp.dep.json"
+@"C:\Users\tmich\OneDrive\Documents\Unreal Projects\UE5_C++_Courses\UE5_GD_Courses\GD_Shooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GD_Shooter\GD_Shooter.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
