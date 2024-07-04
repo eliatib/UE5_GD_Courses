@@ -1,0 +1,49 @@
+﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" OAssaultEditor Win64 DebugGame -Project="C:\Users\titou\Desktop\MyFiles\Unreal Projects\OAssault\OAssault.uproject" -WaitMutex -FromMsBuild -Rebuild
+  Log file: C:\Users\titou\AppData\Local\UnrealBuildTool\Log.txt
+  Cleaning OAssaultEditor and UnrealHeaderTool binaries...
+  Creating makefile for OAssaultEditor (no existing makefile)
+  Parsing headers for OAssaultEditor
+    Running Internal UnrealHeaderTool "C:\Users\titou\Desktop\MyFiles\Unreal Projects\OAssault\OAssault.uproject" "C:\Users\titou\Desktop\MyFiles\Unreal Projects\OAssault\Intermediate\Build\Win64\OAssaultEditor\DebugGame\OAssaultEditor.uhtmanifest" -WarningsAsErrors -installed
+  Total of 4 written
+  Reflection code generated for OAssaultEditor in 0.9640044 seconds
+  Building OAssaultEditor...
+  Using Visual Studio 2022 14.33.31631 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Upgrade]
+  [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+  [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_0
+  [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1;' in OAssaultEditor.Target.cs.
+  [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+  [Upgrade]
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+  Distributing 9 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  
+  Build ID: {8B69A391-7CA3-4715-A9AF-E741CCB3EE26}
+  
+  --------------------Project: Default-------------------------------------------
+  [1/9] SharedPCH.Engine.NonOptimized.ShadowErrors.InclOrderUnreal5_0.cpp (0:46.51 at +0:00)
+  [2/9] MovingPlatform.cpp (0:00.67 at +0:46)
+  [3/9] MovingPlatform.gen.cpp (0:00.51 at +0:47)
+  [4/9] OAssault.init.gen.cpp (0:00.43 at +0:47)
+  [5/9] OAssault.cpp (0:00.43 at +0:48)
+  [6/9] Default.rc2 (0:00.10 at +0:48)
+  [7/9] UnrealEditor-OAssault-Win64-DebugGame.dll (0:00.98 at +0:48)
+     Creation de la bibliotheque C:\Users\titou\Desktop\MyFiles\Unreal Projects\OAssault\Intermediate\Build\Win64\UnrealEditor\DebugGame\OAssault\UnrealEditor-OAssault-Win64-DebugGame.suppressed.lib et de l'objet C:\Users\titou\Desktop\MyFiles\Unreal Projects\OAssault\Intermediate\Build\Win64\UnrealEditor\DebugGame\OAssault\UnrealEditor-OAssault-Win64-DebugGame.suppressed.exp
+  [8/9] UnrealEditor-OAssault-Win64-DebugGame.lib (0:00.07 at +0:49)
+     Creation de la bibliotheque C:\Users\titou\Desktop\MyFiles\Unreal Projects\OAssault\Intermediate\Build\Win64\UnrealEditor\DebugGame\OAssault\UnrealEditor-OAssault-Win64-DebugGame.lib et de l'objet C:\Users\titou\Desktop\MyFiles\Unreal Projects\OAssault\Intermediate\Build\Win64\UnrealEditor\DebugGame\OAssault\UnrealEditor-OAssault-Win64-DebugGame.exp
+  [9/9] OAssaultEditor-Win64-DebugGame.target (0:00.23 at +0:49)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+  Total time in XGE executor: 50.52 seconds
+  Total execution time: 97.60 seconds
