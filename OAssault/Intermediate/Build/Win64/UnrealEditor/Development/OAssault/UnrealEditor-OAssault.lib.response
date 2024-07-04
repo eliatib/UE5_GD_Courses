@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OAssault.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\titou\Desktop\MyFiles\Unreal Projects\OAssault\Intermediate\Build\Win64\OAssaultEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\titou\Desktop\MyFiles\Unreal Projects\OAssault\Intermediate\Build\Win64\UnrealEditor\Development\OAssault\MovingPlatform.gen.cpp.obj"
+"C:\Users\titou\Desktop\MyFiles\Unreal Projects\OAssault\Intermediate\Build\Win64\UnrealEditor\Development\OAssault\OAssault.init.gen.cpp.obj"
+"C:\Users\titou\Desktop\MyFiles\Unreal Projects\OAssault\Intermediate\Build\Win64\UnrealEditor\Development\OAssault\MovingPlatform.cpp.obj"
+"C:\Users\titou\Desktop\MyFiles\Unreal Projects\OAssault\Intermediate\Build\Win64\UnrealEditor\Development\OAssault\OAssault.cpp.obj"
+"C:\Users\titou\Desktop\MyFiles\Unreal Projects\OAssault\Intermediate\Build\Win64\UnrealEditor\Development\OAssault\Default.rc2.res"
+/OUT:"C:\Users\titou\Desktop\MyFiles\Unreal Projects\OAssault\Intermediate\Build\Win64\UnrealEditor\Development\OAssault\UnrealEditor-OAssault.lib"

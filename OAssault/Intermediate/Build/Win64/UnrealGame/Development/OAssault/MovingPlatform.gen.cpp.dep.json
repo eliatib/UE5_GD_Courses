@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\titou\\desktop\\myfiles\\unreal projects\\oassault\\intermediate\\build\\win64\\unrealgame\\inc\\oassault\\uht\\movingplatform.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\titou\\desktop\\myfiles\\unreal projects\\oassault\\intermediate\\build\\win64\\oassault\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\titou\\desktop\\myfiles\\unreal projects\\oassault\\intermediate\\build\\win64\\unrealgame\\development\\oassault\\definitions.oassault.h",
+            "c:\\users\\titou\\desktop\\myfiles\\unreal projects\\oassault\\source\\oassault\\movingplatform.h",
+            "c:\\users\\titou\\desktop\\myfiles\\unreal projects\\oassault\\intermediate\\build\\win64\\unrealgame\\inc\\oassault\\uht\\movingplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
