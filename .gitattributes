@@ -31,3 +31,8 @@ $[[:space:]]git[[:space:]]lfs[[:space:]]track[[:space:]].vs
 titou@Thi-Biscuit[[:space:]]MINGW64[[:space:]]~/Documents/GitHub/UE5/UE5_GD_Courses/UE5_GD_Courses[[:space:]](main)
 $[[:space:]]git[[:space:]]lfs[[:space:]]track[[:space:]] filter=lfs diff=lfs merge=lfs -text
 CryptRaider/.vs/CryptRaider/v17/ipch/223f1dace98138f8.ipch filter=lfs diff=lfs merge=lfs -text
+CryptRaider/.vs/CryptRaider/v17/ipch/3c96cba51cf8ff07.ipch filter=lfs diff=lfs merge=lfs -text
+CryptRaider/.vs/CryptRaider/v17/ipch/6fc9c009715b159f.ipch filter=lfs diff=lfs merge=lfs -text
+CryptRaider/Intermediate/ProjectFiles/CryptRaider.vcxproj filter=lfs diff=lfs merge=lfs -text
+CryptRaider/Intermediate/ProjectFiles/UE5.vcxproj filter=lfs diff=lfs merge=lfs -text
+OAssault/.vs/OAssault//v17/ipch/ filter=lfs diff=lfs merge=lfs -text
