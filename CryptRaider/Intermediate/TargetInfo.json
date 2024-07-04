@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CryptRaider",
+			"Path": "C:\\Users\\titou\\Desktop\\MyFiles\\Unreal Projects\\CryptRaider\\Source\\CryptRaider.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CryptRaiderEditor",
+			"Path": "C:\\Users\\titou\\Desktop\\MyFiles\\Unreal Projects\\CryptRaider\\Source\\CryptRaiderEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/CryptRaider/Content/MyDungeon.umap",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/CryptRaider/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/CryptRaider/Content/MyDungeon_BuiltData.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/CryptRaider/Content/MedievalDungeon/Blueprints/BP_Torch_Dungeon.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/CryptRaider/Content/MedievalDungeon/Blueprints/BP_Chandalier.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/CryptRaider/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/CryptRaider/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/CryptRaider/Content/Input/IA_Player_Grab.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/CryptRaider/Content/Input/IMC_default.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/CryptRaider/Content/BP_MovableGrid.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/CryptRaider/Content/BP_ObjectStand.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/CryptRaider/Content/Input/IA_Player.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/CryptRaider/Content/BP_Player.uasset"
+			]
+		}
+	]
+}
