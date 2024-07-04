@@ -1,0 +1,30 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#pragma once
+#include "Mover.h"
+
+#include "CoreMinimal.h"
+#include "Components/BoxComponent.h"
+#include "TriggerComponent.generated.h"
+
+/**
+ *
+ */
+UCLASS(ClassGroup = (Custom), meta = (BlueprintSpawnableComponent))
+class CRYPTRAIDER_API UTriggerComponent : public UBoxComponent
+{
+	GENERATED_BODY()
+
+protected:
+	virtual void BeginPlay() override;
+
+public:
+
+	UTriggerComponent();
+
+	virtual void TickComponent(float DeltaTime, enum ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction);
+
+	UPROPERTY(EditAnywhere)
+	AActor* Movable;
+	AActor* GetAcceptableActor() const;
+};
