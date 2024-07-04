@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/OAssault/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/OAssault/Content/BP_Player.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/OAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/OAssault/Content/BP_MovingPlatform.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/OAssault/Content/BP_MovingCube.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/OAssault/Content/BP_OAGameMode.uasset",
+				"C:/Users/titou/Desktop/MyFiles/Unreal Projects/OAssault/Content/BP_RotatePlat.uasset"
+			]
+		}
+	]
+}

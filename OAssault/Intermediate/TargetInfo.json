@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "OAssault",
+			"Path": "C:\\Users\\titou\\Desktop\\MyFiles\\Unreal Projects\\OAssault\\Source\\OAssault.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OAssaultEditor",
+			"Path": "C:\\Users\\titou\\Desktop\\MyFiles\\Unreal Projects\\OAssault\\Source\\OAssaultEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
