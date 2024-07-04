@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\titou\\desktop\\myfiles\\unreal projects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\uht\\grabber.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\titou\\desktop\\myfiles\\unreal projects\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\titou\\desktop\\myfiles\\unreal projects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "c:\\users\\titou\\desktop\\myfiles\\unreal projects\\cryptraider\\source\\cryptraider\\grabber.h",
+            "e:\\unreal\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\physicsengine\\physicshandlecomponent.h",
+            "e:\\unreal\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\physicshandlecomponent.generated.h",
+            "c:\\users\\titou\\desktop\\myfiles\\unreal projects\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\uht\\grabber.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
